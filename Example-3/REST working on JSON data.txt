@@ -1,0 +1,27 @@
+1-open cmd
+2-go to the module
+3-run command  for node package manager.
+
+
+1-npm install express
+2-node server.js
+3-http://127.0.0.1:8081/listUsers
+
+
+http://127.0.0.1:8081/2
+http://127.0.0.1:8081/addUser
+
+
+
+
+npm uninstall express
+npm update express
+npm search express
+
+
+
+S.N.	URI	        HTTP Method	POST body	Result
+1	listUsers	GET		empty		Show list of all the users.
+2	addUser	        POST		JSON String	Add details of new user.
+3	deleteUser	DELETE		JSON String	Delete an existing user.
+4	:id	        GET		empty		Show details of a user.

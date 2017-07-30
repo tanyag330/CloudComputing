@@ -1,0 +1,15 @@
+run cmd
+
+go to the path where main.js exist
+
+
+run command
+
+1-node main.js
+
+this will start ur server.
+
+
+2-http://127.0.0.1:8081/
+
+run on browser.

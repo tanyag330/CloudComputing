@@ -1,0 +1,3 @@
+open cmd
+go to the path where main.js exist and run
+>node main.js   // main.js is ur file name
